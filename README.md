@@ -2,6 +2,7 @@
 # Income-Prediction-Using-Machine-Learning-Model
 Predict income using Machine Learning Model with feature engineering and selection to predict whether income &lt;= 50k or >=50k
 
+Complete with handling outliers and pre-processing model
 
 This repo contains several files:
 
